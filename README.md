@@ -2,8 +2,8 @@
 My 50 LPA  journey starts here
 **Name:** Prakash
 **Location:** Berhampore, WB
-**Goal:** Backend Devoloper @50 LPA
-**Stack:** Python | Dsa | System Desing
+**Goal:** Backend Developer @50 LPA
+**Stack:** Python | Dsa | System Design
 
 
 ### Day 1 Progress:
